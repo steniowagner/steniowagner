@@ -4,7 +4,7 @@
 
 ### Code is poetry.
 
-I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in JavaScript by building web apps with React and mobile-apps using React-Native that aren't just beautiful, but are enjoyable to use and really problem-solvers. Also, I create RESTful and GraphQL APIs using NodeJS that can handle high loads of requests and will never let you down.
+I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in JavaScript/TypeScript by building web apps with React and mobile-apps using React-Native that aren't just beautiful, but are enjoyable to use and really problem-solvers. Also, I create RESTful and GraphQL APIs using NodeJS that can handle high loads of requests and will never let you down.
 
 Always writing not just scalable softwares, but also the readable code that will make the scalability possible.
 
