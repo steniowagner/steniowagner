@@ -2,6 +2,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:stenio.wagner1@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/swmyself/)
 
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=steniowagner.visitor-badge">
+
 ### Code is poetry.
 
 I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in JavaScript/TypeScript by building web apps with React and mobile-apps using React-Native that aren't just beautiful, but are enjoyable to use and really problem-solvers. Also, I create RESTful and GraphQL APIs using NodeJS that can handle high loads of requests and will never let you down.
